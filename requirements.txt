@@ -1,0 +1,4 @@
+watchdog==2.1.9
+postgrest==0.10.6
+aiohttp==3.8.1
+psycopg2-binary==2.9.5
